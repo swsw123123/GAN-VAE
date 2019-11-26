@@ -1,10 +1,3 @@
-""" Options
-
-This script is largely based on junyanz/pytorch-CycleGAN-and-pix2pix.
-
-Returns:
-    [argparse]: Class containing argparse
-"""
 
 import argparse
 import os
